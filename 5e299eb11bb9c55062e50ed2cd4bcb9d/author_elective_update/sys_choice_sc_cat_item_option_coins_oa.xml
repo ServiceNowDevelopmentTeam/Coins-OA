@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="coins_oa" table="sc_cat_item_option" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>coins_oa</element>
+            <name>sc_cat_item_option</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 21:49:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>coins_oa</sys_name>
+            <sys_package display_value="Coins OA" source="5e299eb11bb9c55062e50ed2cd4bcb9d">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_scope>
+            <sys_update_name>sys_choice_sc_cat_item_option_coins_oa</sys_update_name>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 21:49:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Back Office</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 19:49:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 19:49:49</sys_updated_on>
+            <value>Back Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compiler</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:00:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:00:51</sys_updated_on>
+            <value>Compiler</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Designer</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:01:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:01:29</sys_updated_on>
+            <value>Designer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ESS Only</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 19:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 19:50:05</sys_updated_on>
+            <value>ESS Only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Excel Server</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:01:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:01:51</sys_updated_on>
+            <value>Excel Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>M-TECH</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 19:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 19:50:18</sys_updated_on>
+            <value>M-TECH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>mCDR</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 19:50:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 19:50:29</sys_updated_on>
+            <value>mCDR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ODBA Adapter</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:01:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:01:13</sys_updated_on>
+            <value>ODBA Adapter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 19:50:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 19:50:37</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Runner</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:01:00</sys_updated_on>
+            <value>Runner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Services</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:02:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:02:24</sys_updated_on>
+            <value>Web Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Workflow</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:00:40</sys_updated_on>
+            <value>Workflow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>other</dependent_value>
+            <element>coins_oa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Writer</label>
+            <language>en</language>
+            <name>sc_cat_item_option</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>John.Schwab</sys_created_by>
+            <sys_created_on>2022-02-21 20:01:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>John.Schwab</sys_updated_by>
+            <sys_updated_on>2022-02-21 20:01:40</sys_updated_on>
+            <value>Writer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

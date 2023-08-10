@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Request Type">4b8098f81bae38108c5143f3cc4bcbe3</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-21 16:44:05</sys_created_on>
+        <sys_id>17d216b91b79c55062e50ed2cd4bcb6e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Modify Access</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_scope>
+        <sys_update_name>question_choice_17d216b91b79c55062e50ed2cd4bcb6e</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-03-03 16:29:02</sys_updated_on>
+        <text>Modify Access</text>
+        <value>modify_access</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=17d216b91b79c55062e50ed2cd4bcb6e"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>17d216b91b79c55062e50ed2cd4bcb6e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-21 16:44:05</sys_created_on>
+        <sys_id>c5e256b91b79c55062e50ed2cd4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-21 16:44:05</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>17d216b91b79c55062e50ed2cd4bcb6e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-21 16:44:05</sys_created_on>
+        <sys_id>0de21ab51b79c55062e50ed2cd4bcb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-21 16:44:05</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</claim_owner_scope>
+        <claim_timestamp>17f1d45b70b0000001</claim_timestamp>
+        <metadata_update_name>question_choice_17d216b91b79c55062e50ed2cd4bcb6e</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Coins OA</previous_claim_name>
+        <previous_claim_scope>5e299eb11bb9c55062e50ed2cd4bcb9d</previous_claim_scope>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-21 17:13:02</sys_created_on>
+        <sys_id>4d89da391bb9c55062e50ed2cd4bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-21 17:13:02</sys_updated_on>
+    </sys_claim>
+</record_update>
