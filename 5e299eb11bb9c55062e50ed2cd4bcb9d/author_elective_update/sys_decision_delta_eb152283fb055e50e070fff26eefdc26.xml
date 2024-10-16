@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_delta">
+    <sys_decision_delta action="DELETE">
+        <access>public</access>
+        <active>false</active>
+        <answer_table>sys_decision_multi_result</answer_table>
+        <answer_type>reference</answer_type>
+        <delta/>
+        <description/>
+        <enable_publishing>false</enable_publishing>
+        <label/>
+        <name>Coins OA Company Approvers delta</name>
+        <parent display_value="Coins OA Company Approvers">2ff302871b608690c16ddb9ebd4bcb50</parent>
+        <reference_qualifier/>
+        <status>draft</status>
+        <sys_class_name>sys_decision_delta</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 13:24:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eb152283fb055e50e070fff26eefdc26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Coins OA Company Approvers delta</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coins OA" source="5e299eb11bb9c55062e50ed2cd4bcb9d">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_scope>
+        <sys_update_name>sys_decision_delta_eb152283fb055e50e070fff26eefdc26</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 13:24:48</sys_updated_on>
+    </sys_decision_delta>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>sys_decision_delta_eb152283fb055e50e070fff26eefdc26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_delta"><sys_decision_delta action="INSERT_OR_UPDATE"><access>public</access><active>false</active><answer_table>sys_decision_multi_result</answer_table><answer_type>reference</answer_type><delta/><description/><enable_publishing>false</enable_publishing><label/><name>Coins OA Company Approvers delta</name><parent display_value="Coins OA Company Approvers">2ff302871b608690c16ddb9ebd4bcb50</parent><reference_qualifier/><status>draft</status><sys_class_name>sys_decision_delta</sys_class_name><sys_created_by>John.Schwab</sys_created_by><sys_created_on>2024-10-09 13:24:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eb152283fb055e50e070fff26eefdc26</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Coins OA Company Approvers delta</sys_name><sys_overrides/><sys_package display_value="Coins OA" source="5e299eb11bb9c55062e50ed2cd4bcb9d">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_package><sys_policy/><sys_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_scope><sys_update_name>sys_decision_delta_eb152283fb055e50e070fff26eefdc26</sys_update_name><sys_updated_by>John.Schwab</sys_updated_by><sys_updated_on>2024-10-09 13:24:48</sys_updated_on></sys_decision_delta></record_update>]]></payload>
+        <payload_hash>989356869</payload_hash>
+        <record_name>Coins OA Company Approvers delta</record_name>
+        <reverted_from/>
+        <source>78d6161e1b928a5062e50ed2cd4bcb54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 13:24:48</sys_created_on>
+        <sys_id>6f152283fb055e50e070fff26eefdc28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927174208f0000001</sys_recorded_at>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 13:24:48</sys_updated_on>
+        <type>Delta Decision Table</type>
+        <update_guid>63152283ed055e5087b787064304b928</update_guid>
+        <update_guid_history>63152283ed055e5087b787064304b928:989356869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 13:34:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_delta">sys_decision_delta</sys_db_object>
+        <sys_id>54828bfcb18341bca9a00a97405f6d89</sys_id>
+        <sys_metadata>eb152283fb055e50e070fff26eefdc26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Coins OA Company Approvers delta</sys_name>
+        <sys_package display_value="Coins OA" source="5e299eb11bb9c55062e50ed2cd4bcb9d">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_scope>
+        <sys_scope_delete display_value="">34411097bb1e4c38a42f21f2f124da44</sys_scope_delete>
+        <sys_update_name>sys_decision_delta_eb152283fb055e50e070fff26eefdc26</sys_update_name>
+        <sys_update_version display_value="sys_decision_delta_eb152283fb055e50e070fff26eefdc26">6f152283fb055e50e070fff26eefdc28</sys_update_version>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 13:34:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

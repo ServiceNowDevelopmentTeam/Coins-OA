@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Coins OA Company Approvers">2ff302871b608690c16ddb9ebd4bcb50</decision_table>
+        <label>Assistant Controller: Nicole McFadden, Controller: Marisa Holtz, President: Lynn Bishop</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 16:57:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>10e55747fbc55e50e070fff26eefdcd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assistant Controller: Nicole McFadden, Controller: Marisa Holtz, President: Lynn Bishop</sys_name>
+        <sys_package display_value="Coins OA" source="5e299eb11bb9c55062e50ed2cd4bcb9d">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coins OA">5e299eb11bb9c55062e50ed2cd4bcb9d</sys_scope>
+        <sys_update_name>sys_decision_multi_result_10e55747fbc55e50e070fff26eefdcd2</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 16:57:50</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=10e55747fbc55e50e070fff26eefdcd2"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>10e55747fbc55e50e070fff26eefdcd2</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 16:57:50</sys_created_on>
+        <sys_id>58e55747fbc55e50e070fff26eefdcd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 16:57:50</sys_updated_on>
+        <value>68cc32001b96d850e7004229bc4bcb0e</value>
+        <variable display_value="Assistant Controller">241582c71b608690c16ddb9ebd4bcbc8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>10e55747fbc55e50e070fff26eefdcd2</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 16:57:50</sys_created_on>
+        <sys_id>94e55747fbc55e50e070fff26eefdcd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 16:57:50</sys_updated_on>
+        <value>163519641bc48110df31da49cc4bcb20</value>
+        <variable display_value="President">781582c71b608690c16ddb9ebd4bcbda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>10e55747fbc55e50e070fff26eefdcd2</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-09 16:57:50</sys_created_on>
+        <sys_id>d0e51f47fbc55e50e070fff26eefdc17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-09 16:57:50</sys_updated_on>
+        <value>97b099941b5a5c50e7004229bc4bcb10</value>
+        <variable display_value="Controller">e81582c71b608690c16ddb9ebd4bcbb4</variable>
+    </sys_variable_value>
+</record_update>
